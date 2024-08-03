@@ -1,0 +1,28 @@
+{
+    "El banquete": {
+        "autor": "Plat\u00f3n",
+        "titulo": "El banquete",
+        "ciudad": "Atenas",
+        "a\u00f1o": 2020,
+        "url": "www.platon.com/elbanquete",
+        "revista_libro": "Obras Completas",
+        "editorial": "EUDENE"
+    },
+    "Di\u00e1logos": {
+        "autor": "S\u00f3crates",
+        "titulo": "Di\u00e1logos",
+        "ciudad": "Atenas",
+        "a\u00f1o": 2020,
+        "url": "www.socrates.com/dialogos",
+        "evento": "Asamblea de Atenas"
+    },
+    "Po\u00e9tica": {
+        "autor": "Arist\u00f3teles",
+        "titulo": "Po\u00e9tica",
+        "ciudad": "Atenas",
+        "a\u00f1o": 2020,
+        "url": "www.aristoteles.com/poetica",
+        "revista_libro": "Obras Completas",
+        "editorial": "Siglo XXI"
+    }
+}
